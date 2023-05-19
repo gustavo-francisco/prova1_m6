@@ -1,0 +1,2 @@
+Prof, o journey é o arquivo em que consegui implementar a lista.
+O journey2 é o arquivo que tentei fazer o stack para fazer o caminho de volta, mas infelizmente não consegui fazer funcionar. deixei pra você ver o que tava tentando fazer.
